@@ -17,6 +17,8 @@ export interface PositionalTrade {
   targetHitDate: string;
   term: 'Short Term' | 'Medium Term' | 'Long Term';
   type: string;
+  buySellPrice: number;
+  targetPrice: number;
 }
 
 export interface Portfolio {
