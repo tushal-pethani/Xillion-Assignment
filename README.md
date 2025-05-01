@@ -2,6 +2,10 @@
 
 A modern React Native mobile application for trading and investment management.
 
+## Demo
+
+📹 [Watch the Demo](https://drive.google.com/file/d/1zdMX712pef8R4nZXWojZ_BaekEs2YNPk/view?usp=sharing)
+
 ## Project Overview
 
 Xillion is a sophisticated trading application that allows users to:
